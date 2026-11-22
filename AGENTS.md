@@ -1,6 +1,6 @@
 # zrm625 fork of TheMuppets/proprietary_vendor_motorola_river
 
-This repository is **zrm625's fork**. It is not LineageOS.
+This repository is **zrm625's fork**. It is not TheMuppets or LineageOS.
 
 - Pull requests go to **zrm625/proprietary_vendor_motorola_river**, base branch **river-22.2**:
 
