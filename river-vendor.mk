@@ -349,6 +349,5 @@ PRODUCT_PACKAGES += \
     libets_teeclient \
     libpn553_fw \
     vendor.egistec.hardware.fingerprint@2.0 \
-    MotCamera2 \
     charge_only_mode \
     android.hardware.biometrics.fingerprint@2.1-service-ets
